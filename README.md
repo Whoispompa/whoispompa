@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Tijuana, B.C, México
-* 🖥️  See my portfolio at [Whoispompa.com](http://Whoispompa.com)
+* 🖥️  See my portfolio at [Whoispompa.dev](http://Whoispompa.dev)
 * ✉️  You can contact me at [hazadev.pompa@gmail.com](mailto:hazadev.pompa@gmail.com)
 * 🧠  I'm learning a new framework: React & Vue
 
